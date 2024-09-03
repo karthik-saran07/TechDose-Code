@@ -23,7 +23,7 @@ int main () {
 
     bool check = helper();
     if ( check )
-        cout<<"Is a prime";
+        cout<<"Is a prime number";
     else
         cout<<"Not a prime";
     return 0;
